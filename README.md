@@ -9,17 +9,26 @@ My academic and practical experiences in cybersecurity have fueled my passion fo
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Ethical Hacking                               | <a href="https://google.com">Detection Lab</a>|
-| Penetration Testing                           | <a href="https://google.com">Detection Lab</a>|
-| Web App Security                              | SOC Automation Lab|
-| Secure Software Development                   | SOC Automation Lab|
-| Network Security                              | SOC Automation Lab|
-| Bug Bounty                                    | SOC Automation Lab|
+- 🛡️ **Ethical Hacking**  
+  Proficient in identifying and mitigating vulnerabilities across various systems.
+
+- 🕵️‍♂️ **Penetration Testing**  
+  Experienced in simulating cyberattacks to evaluate security.
+
+- 🌐 **Web App Security**  
+  Skilled in securing web applications against XSS, CSRF, and SQLi attacks.
+
+- 💻 **Secure Software Development**  
+  Develops software with security-first principles using best practices.
+
+- 🔐 **Network Security**  
+  CCNA & Net+ Certified, skilled in threat defense and incident response.
+
+- 🐞 **Bug Bounty**  
+  Participates in vulnerability discovery for bug bounty platforms.
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -29,28 +38,39 @@ My academic and practical experiences in cybersecurity have fueled my passion fo
 
 ### Web Application
 <div>
-    <img src="https://img.shields.io/badge/-SQL%20Injection-1679A7?&style=for-the-badge&logo=MySQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL%20Injection-8A2BE2?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Dirb-00BFFF?&style=for-the-badge&logo=Dirb&logoColor=white" />
+</div>
+
+### Cryptography
+<div>
+    <img src="https://img.shields.io/badge/-John_the_Ripper-8C9EFF?&style=for-the-badge&logo=John_the_Ripper&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-0078D4?&style=for-the-badge&logo=Hashcat&logoColor=white" />
+</div>
+
+### Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Binwalk-FF6347?&style=for-the-badge&logo=Binwalk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExifTool-32CD32?&style=for-the-badge&logo=ExifTool&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-CEH-4D4D4D?&style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker%20(CEH)-005A8D?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity%20Foundation%20Palo%20Alto%20Academy-4CAF50?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python%20and%20Ethical%20Hacking%20from%20Scratch%20(Zsecurity)-FFD700?&style=for-the-badge&logo=Zsecurity&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Website for Station Management System-FrontEnd and BackEnd (Using NodeJs, Handlebars and MongoDB)
+- Secure Gym Management System (using JavaFX)
+- Secure Battleship Game (using Python)
+- Bug Bounty on Openseas.io (using PT & VA)
