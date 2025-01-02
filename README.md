@@ -1,26 +1,22 @@
 # Hello, I'm Misbahul Haque
 <a href="www.linkedin.com/in/misbahulhaque-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 A passionate cybersecurity student with a strong foundation in ethical hacking, penetration testing, and a Certified Ethical Hacker certification, driven to innovate and excel in the field.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My academic and practical experiences in cybersecurity have fueled my passion for ethical hacking and penetration testing, and I am eager to advance my career by joining a dynamic cybersecurity team, aiming to contribute as a Security Consultant specializing in vulnerability assessment, threat detection and prevention.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Ethical Hacking                               | <a href="https://google.com">Detection Lab</a>|
+| Penetration Testing                           | <a href="https://google.com">Detection Lab</a>|
+| Web App Security                              | SOC Automation Lab|
+| Secure Software Development                   | SOC Automation Lab|
+| Network Security                              | SOC Automation Lab|
+| Bug Bounty                                    | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -28,13 +24,12 @@ My academic and practical experiences in cybersecurity have fueled my passion fo
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### Endpoint
+### Web Application
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL%20Injection-1679A7?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
