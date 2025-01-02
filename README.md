@@ -22,7 +22,7 @@ My academic and practical experiences in cybersecurity have fueled my passion fo
   Develops software with security-first principles using best practices.
 
 - 🔐 **Network Security**  
-  CCNA & Net+ Certified, skilled in threat defense and incident response.
+  Skilled in threat detection and incident response.
 
 - 🐞 **Bug Bounty**  
   Participates in vulnerability discovery for bug bounty platforms.
